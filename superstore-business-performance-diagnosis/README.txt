@@ -25,13 +25,15 @@ A sales performance analysis of 9,800 retail order lines (2015–2018), built wi
 
 ## Project Structure
 
+```
 superstore-business-performance-diagnosis/
-├── data/ raw and cleaned CSV files
-├── notebooks/ Python cleaning and EDA notebook
-├── sql/ business queries
-├── dashboard/ Power BI file
-├── screenshots/ dashboard screenshots
+├── data/                  raw and cleaned CSV files
+├── notebooks/             Python cleaning and EDA notebook
+├── sql/                   business queries
+├── dashboard/             Power BI file
+├── screenshots/           dashboard screenshots
 └── README.md
+```
 
 ## How to Run
 
@@ -64,9 +66,9 @@ superstore-business-performance-diagnosis/
 
 | Page | Title | Screenshot |
 |---|---|---|
-| 1. Overview | Superstore Sales Overview, 2015–2018 | ![Overview](screenshots/page1_overview.png) |
-| 2. Products and Regions | Products and Regions: Where Sales Come From | ![Products and Regions](screenshots/page2_products_regions.png) |
-| 3. Customers and Shipping | Customers and Shipping: Who Buys and How Fast Orders Arrive | ![Customers and Shipping](screenshots/page3_customers_shipping.png) |
+| 1. Overview | Superstore Sales Overview, 2015–2018 | ![Overview](superstore-business-performance-diagnosis/screenshots/1.Overview.png) |
+| 2. Products and Regions | Products and Regions: Where Sales Come From | ![Products and Regions](superstore-business-performance-diagnosis/screenshots/2.Products_and_Regions.png) |
+| 3. Customers and Shipping | Customers and Shipping: Who Buys and How Fast Orders Arrive | ![Customers and Shipping](superstore-business-performance-diagnosis/screenshots/3.Customers_and_Shipping.png) |
 
 ## Tools and Skills Demonstrated
 
